@@ -1,4 +1,9 @@
 name: bgc
-dependencies:
+channels:
   - bioconda
+dependencies:
+  - biopython
+  - fasttree
+  - numpy
+  - scipy
   - matplotlib
