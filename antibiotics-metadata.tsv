@@ -1,0 +1,396 @@
+SSV-2083	Streptomyces sviceus ATCC 29083	ABJJ02		Complete	no	yes													Lanthipeptide	BGC0000579	
+himastatin	Streptomyces himastatinicus ATCC 53653	ACEX01		Unknown	yes	yes	2211362	yes					yes					cyclohexadepsipeptide	NRP	BGC0001117	
+phosphinothricintripeptide	Streptomyces viridochromogenes	ACEZ01		Complete	yes	yes	1367200,11472937	yes										Aminobutyrates	NRP	BGC0000406	
+hormaomycin, hormaomycin A1, hormaomycin A2, hormaomycin A3, hormaomycin A4, hormaomycin A5, hormaomycin A6	Streptomyces griseoflavus	ACFA01		Complete	yes	yes	21439483	yes										peptide lactone	Cyclic depsipeptide	BGC0000374	bacterial signaling
+clavulanic acid	Streptomyces clavuligerus	ADWJ01		Unknown	yes	yes	.	yes										beta-lactam	Other	BGC0000844	
+thiotetroamide	Streptomyces afghaniensis	AOPY01		Unknown	yes	no	6833125	yes											Polyketide	BGC0001236	
+lankamycin	Streptomyces rochei	AP018517.1		Unknown	yes	yes	5367395	yes										macrolides	Polyketide	BGC0000085	
+streptothricin	Streptomyces rochei	AP018517.1		Unknown	yes	yes	16560703	yes										N-glycoside	NRP	BGC0000432	
+lipopeptide 8D1-1, lipopeptide 8D1-2	Streptomyces rochei	AP018517.1		Unknown	no	yes												Lipo pepetides	NRP	BGC0001370	
+borrelidin	Streptomyces rochei	AP018517.1		Unknown	yes	no	18134558,5836317	yes				yes							Polyketide	BGC0001533	
+clorobiocin	Streptomyces roseochromogenus subsp. oscitans DS 12.976	AWQX01		Complete	yes	no	94144	yes										Glycosides	"Hybridtailoring saccharide
+Aminocoumarin"	BGC0000832	
+filipin	Streptomyces avermitilis MA-4680 = NBRC 14893	BAVY01		Unknown	yes	no	14456208	yes	yes									polyene	Polyketide	BGC0000059	
+BD-12	Streptomyces luteocolor	BDGW01		Unknown	yes	yes	5701774	yes										N-glycoside streptothricin	NRP	BGC0001379	
+lactonamycin	Streptomyces rishiriensis	BEWA01		Unknown	yes	yes		yes										aglycone	Polyketide	BGC0000238	
+coumermycin A1	Streptomyces rishiriensis	BEWA01		Complete	yes	yes	4964458	yes										Coumarins	"Hybridtailoring saccharide
+Aminocoumarin"	BGC0000833	
+paromomycin	Streptomyces rimosus subsp. paromomycinus	BHZD01		Unknown	yes	yes	13595492	yes										Aminoglycosides	Saccharide	BGC0000712	
+spore pigment	Streptomyces avermitilis	BJHY01		Unknown	no	no													Polyketide	BGC0000271	
+jomthonic acid A, jomthonic acid B, jomthonic acid C	Streptomyces caniferus	BLIN01		Unknown	no	no												Peptides	NRP	BGC0001457	
+cathomycin	Streptomyces niveus	CM002280.1		Complete	yes	no	13425380,13319887	yes											"Hybridtailoring saccharide
+Aminocoumarin"	BGC0000834	
+actinomycin D	Streptomyces anulatus	CM003601.1		Unknown	yes	yes		yes										lactone	NRP	BGC0000296	
+ectoine	Streptomyces anulatus	CM003601.1		Unknown	no	no													Other	BGC0000853	
+tetracenomycin C	Streptomyces glaucescens	CP009438.1		Complete	yes	yes	3474613, 485765	yes					yes						Type II polyketide	BGC0000275	
+xiamenmycin A	Streptomyces xiamenensis	CP009922.3		Unknown	no	no												Benzopyrans	Other	BGC0000933	anti-fibrotic
+porothramycin A	Streptomyces albus subsp. albus	CP010519.1		Unknown	yes	yes	3192492	yes					yes					anthramycin	NRP	BGC0000409	
+oxalomycin B	Streptomyces albus	CP010519.1		Unknown	yes	yes						yes	yes					polyketide-peptide	"NRP
+Polyketide"	BGC0001106	
+LL-F28249α	Streptomyces cyaneogriseus subsp. noncyanogenus	CP010849.1		Unknown	yes	yes	2764352			yes								Macrocyclic Lactones	Polyketide	BGC0000109	
+albonoursin	Streptomyces noursei ATCC 11455	CP011533.1		Unknown	yes	no	4783201	yes					yes					Piperazines	Other	BGC0000851	
+stambomycin A, stambomycin B, stambomycin C, stambomycin D	Streptomyces ambofaciens ATCC 23877	CP012382.1		Complete	no	yes	21444795						yes					macrolide	"Modular type I polyketide
+Hybridtailoring saccharide"	BGC0000151	
+jadomycin	Streptomyces venezuelae ATCC 10712	CP013129.1		Unknown	yes	yes	19075054	yes										angucycline	Polyketide	BGC0000234	
+β-D-galactosylvalidoxylamine-A	Streptomyces hygroscopicus subsp. limoneus	CP013219.1		Unknown	yes	no			yes									Aminoglycosides	Saccharide	BGC0000723	
+borrelidin	Streptomyces parvulus	CP015866.1		Complete	yes	no	18134558,5836317,https:www.nih.govnews-eventsnih-research-mattersscientists-discover-antibiotic-mechanism	yes	yes			yes	yes	yes	yes	yes			Modular type I polyketide	BGC0000031	Angiogenesis Inhibitor
+blasticidin S	Streptomyces griseochromogenes	CP016279.1		Unknown	yes	yes			yes					yes				Nucleosides	Other	BGC0000874	
+tautomycetin	Streptomyces griseochromogenes	CP016279.1		Complete	yes	yes	19372564		yes				yes					Furans	Modular type I polyketide	BGC0000158	
+elloramycin	Streptomyces olivaceus	CP016795.1		Complete	yes	yes	3840789						yes					anthracycline	"Type II polyketide
+Hybridtailoring saccharide"	BGC0000219	
+geldanamycin	Streptomyces hygroscopicus	CP018627.1		Unknown	yes	yes	5459626	yes	yes				yes	yes				ansamycin	Polyketide	BGC0000066	
+mannopeptimycin	Streptomyces hygroscopicus	CP018627.1		Unknown	yes	yes		yes										Glycopeptides	NRP	BGC0000388	
+hygromycin A	Streptomyces hygroscopicus	CP018627.1		Unknown	yes	yes	24542808	yes										Cinnamates	Saccharide	BGC0000698	
+hygromycin A	Streptomyces hygroscopicus subsp. hygroscopicus	CP018627.1		Unknown	yes	yes	24542808	yes										Cinnamates	Saccharide	BGC0000699	
+jinggangmycin	Streptomyces hygroscopicus subsp. yingchengensis	CP018627.1		Unknown	yes	no	3269390	yes										aminocyclitol	Saccharide	BGC0000701	
+FR-900520	Streptomyces hygroscopicus subsp. ascomyceticus	CP018627.1		Unknown	yes	no			yes								yes	macrolide	"NRP
+Polyketide"	BGC0000994	
+rapamycin	Streptomyces rapamycinicus NRRL 5491	CP018627.1		Unknown	yes	yes	1102508,6683650		yes				yes				yes	Macrolides	"NRP
+Polyketide"	BGC0001040	
+eponemycin	Streptomyces hygroscopicus	CP018627.1		Complete	yes	no	2106503						yes						"NRP
+Modular type I polyketide"	BGC0000345	
+toyocamycin	Streptomyces ahygroscopicus subsp. wuzhouensis	CP018627.1		Unknown	yes	no	13345725,560201	yes					yes					Nucleosides	Other	BGC0000881	
+pactamycin	Streptomyces pactum	CP019724.1		Unknown	yes	no	13868850	yes					yes					aminocyclopentitol	Polyketide	BGC0000118	
+granaticin	Streptomyces violaceoruber	CP020570.1		Unknown	yes	no	818999	yes											Polyketide	BGC0000228	
+granaticin	Streptomyces violaceoruber	CP020570.1		Complete	yes	yes	818999	yes											Type II polyketide	BGC0000227	
+doxorubicin	Streptomyces peucetius	CP022438.1		Unknown	yes	no							yes					Anthracyclines	Polyketide	BGC0000218	
+enduracidin	Streptomyces fungicidicus	CP023407.1		Unknown	yes	yes	4299887	yes										polypeptide	NRP	BGC0000341	
+toyocamycin, sangivamycin	Streptomyces rimosus	CP023688.1		Unknown	yes	no	13345725,560201	yes					yes					Nucleosides	Other	BGC0000879	
+rimosamide	Streptomyces rimosus subsp. rimosus ATCC 10970	CP023688.1		Unknown	yes	no		yes										nrp	NRP	BGC0001760	
+actinospectacin	Streptomyces spectabilis	CP023690.1		Unknown	yes	yes	14461632	yes										Aminoglycosides	Saccharide	BGC0000715	
+pladienolide B	Streptomyces platensis	CP023691.1		Unknown	yes	yes							yes					macrolide	Polyketide	BGC0000126	
+viomycin	Streptomyces vinaceus	CP023692.1		Unknown	yes	yes		yes										tuberactinomycin	NRP	BGC0000458	
+pacidamycin 1, pacidamycin 2, pacidamycin 3, pacidamycin 4, pacidamycin 5, pacidamycin 6, pacidamycin 7, pacidamycin D	Streptomyces coeruleorubidus	CP023694.1		Unknown	yes	yes	2498263	yes										Nucleosides	NRP	BGC0000951	
+puromycin	Streptomyces alboniger	CP023695.1		Unknown	yes	no		yes					yes	yes				Nucleosides	Other	BGC0000878	
+fosfomycin	Streptomyces fradiae	CP023696.1		Complete	yes	yes	4840428,5167213	yes											Aminocoumarin	BGC0000938	
+kanamycin	Streptomyces kanamyceticus	CP023699.1		Unknown	yes	yes		yes										Aminoglycosides	Saccharide	BGC0000702	
+kanamycin	Streptomyces kanamyceticus	CP023699.1		Unknown	yes	yes		yes										Aminoglycosides	Saccharide	BGC0000703	
+kanamycin	Streptomyces kanamyceticus	CP023699.1		Unknown	yes	yes		yes										Aminoglycosides	Saccharide	BGC0000704	
+kanamycin	Streptomyces kanamyceticus	CP023699.1		Unknown	yes	yes		yes										Aminoglycosides	Saccharide	BGC0000705	
+kanamycin	Streptomyces kanamyceticus	CP023699.1		Unknown	yes	no		yes										Aminoglycosides	Saccharide	BGC0000706	
+moenomycin	Streptomyces viridosporus ATCC 14672	CP023700.1		Complete	yes	no	4312665	yes	yes									phosphoglycolipid	Saccharide	BGC0000805	
+aclacinomycin	Streptomyces galilaeus	CP023703.1		Unknown	yes	yes		yes	yes				yes					Anthracyclines	Polyketide	BGC0000191	
+isocomplestatin	Streptomyces lavendulae	CP024985.1		Unknown	yes	yes	171,569,132,051,588	yes				yes						vancomycin	NRP	BGC0000326	
+saframycin A, saframycin B	yes	CP024985.1		Unknown	yes	yes	591455	yes					yes					Isoquinolines	NRP	BGC0000422	
+cycloserine	Streptomyces lavendulae subsp. lavendulae	CP024985.1		Unknown	yes	yes		yes											Other	BGC0000896	
+lavendiol	Streptomyces lavendulae	CP024985.1		Unknown	no	no													Polyketide	BGC0001916	
+dehydrofosmidomycin	Streptomyces lavendulae	CP024985.1		Unknown	yes	no	31451762	yes										phosphonate	Other	BGC0002036	
+mitomycin	Streptomyces lavendulae	CP024985.1		Complete	yes	yes	10099135						yes						Aminocoumarin	BGC0000915	
+venezuelin	Streptomyces venezuelae ATCC 10712	CP029197.1		Complete	no	yes													Lanthipeptide	BGC0000563	
+nosiheptide	Streptomyces actuosus	CP029788.1		Unknown	yes	no		yes										thiopeptide	Thiopeptide	BGC0000610	
+tylactone	Streptomyces fradiae	CP032266.1		Unknown	yes	no		yes										macrolide	Polyketide	BGC0000166	
+urdamycin	Streptomyces fradiae	CP032266.1		Unknown	yes	yes	3818439	yes					yes					angucycline	Polyketide	BGC0000277	
+A54145	Streptomyces fradiae	CP032266.1		Unknown	yes	yes	2380106	yes										lipopeptide	NRP	BGC0000291	
+prodigiosin	Streptomyces griseoviridis	CP034687.1		Unknown	yes	yes	1,656,114,617,678,640	yes	yes				yes					tripyrrole	Polyketide	BGC0000257	
+griseoviridin, fijimycin A	Streptomyces griseoviridis	CP034687.1		Complete	yes	yes	23161816	yes											"Cyclic depsipeptide
+Trans-AT type I polyketide"	BGC0000459	
+lysolipin I	Streptomyces tendae	CP043959.1		Unknown	yes	yes		yes											Polyketide	BGC0000242	
+neopolyoxin C	Streptomyces tendae	CP043959.1		Unknown	yes	no			yes							yes		Nucleosides	Other	BGC0000876	
+simocyclinone	Streptomyces antibioticus	CP050692.1		Unknown	yes	no		yes					yes					angucyclinone	Polyketide	BGC0000835	
+valclavam, (-)-2-(2-hydroxyethyl)clavam	Streptomyces antibioticus	CP050692.1		Unknown	yes	yes	3304182	yes	yes									beta-Lactams	Non-NRP beta-lactam	BGC0001151	
+chlorothricin, deschlorothricin	Streptomyces antibioticus	CP050692.1		Complete	yes	yes	4623590	yes										Macrolide spirotetronate	"Modular type I polyketide
+Iterative type I polyketide
+Oligosaccharide"	BGC0000036	
+oviedomycin	Streptomyces antibioticus	CP050692.1		Complete	no	yes							yes					Aminoglycosides angucycline	Type II polyketide	BGC0000253	
+simocyclinone D8	Streptomyces antibioticus	CP050692.1		Complete	yes	yes													"Saccharide
+Modular type I polyketide
+Type II polyketide
+Aminocoumarin"	BGC0001072	
+chartreusin	Streptomyces chartreusis	CP056041.1		Unknown	yes	yes							yes					Glycosides	Polyketide	BGC0000207	
+macrotetrolide	Streptomyces griseus subsp. griseus	FNTW01		Unknown	yes	yes		yes										cyclic polyethers	Polyketide	BGC0000243	
+nonactin	Streptomyces griseus subsp. griseus	FNTW01		Unknown	yes	no	4953484	yes										Macrolides	Polyketide	BGC0000252	
+macrotetrolide	Streptomyces griseus subsp. griseus	FNTW01		Unknown	yes	no		yes										cyclic polyethers	Polyketide	BGC0000244	
+gilvocarcin V	Streptomyces griseoflavus	GG657758.1		Unknown	yes	yes							yes						Polyketide	BGC0000226	
+3,7-dihydroxytropolone	Streptomyces cyaneofuscatus	JAAGLO01		Unknown	yes	no	3417559						yes						Other	BGC0001487	
+rimocidin	Streptomyces diastaticus	JAAGMO001		Unknown	yes	yes	26808253		yes					yes				polyene tetraene macrolides	Polyketide	BGC0000138	
+A-47934	Streptomyces toyocaensis	JFCB01		Complete	yes	yes	3793622	yes										glycopeptide	Glycopeptide	BGC0000290	
+sanglifehrin A	Streptomyces flaveolus	JNWV01		Unknown	yes	no	10458817					yes					yes	Spiro Compounds	"NRP
+Polyketide"	BGC0001042	
+virginiamycin S1	Streptomyces virginiae	JNYC01		Unknown	yes	yes		yes										polyketide-peptide Streptogramin	"NRP
+Polyketide"	BGC0001116	
+colabomycin E	Streptomyces aureus	JNZD01		Complete	yes	yes	24838618	yes											Type II polyketide	BGC0000213	
+halstoctacosanolide A	Streptomyces halstedii	JOAZ01		Unknown	yes	no		yes										macrolactone	Polyketide	BGC0000073	
+vicenistatin	Streptomyces halstedii	JOAZ01		Unknown	yes	no							yes					macrolactam	Polyketide	BGC0000167	
+chalcomycin A	Streptomyces bikiniensis	JOBI01		Unknown	yes	no	https:patentimages.storage.googleapis.com3cfb895f003b8bf2cd1aUS3065137.pdf	yes										macrolactone	Polyketide	BGC0000035	
+rubradirin	Streptomyces achromogenes subsp. rubradiris	JODT01		Unknown	yes	yes	1366609	yes										ansamycin	Polyketide	BGC0000141	
+tomaymycin	Streptomyces achromogenes	JODT01		Unknown	yes	yes	4,648,485,328,469	yes	yes			yes	yes					benzodiazepine	NRP	BGC0000448	
+jawsamycin	Streptomyces roseoverticillatus	JOFL01		Unknown	yes	no			yes									Nucleosides	"NRP
+Polyketide"	BGC0001002	
+griseusin	Streptomyces griseus	JOJE01		Unknown	yes	no		yes										aromatic polyketide	Polyketide	BGC0000231	
+uncialamycin	Streptomyces uncialis	LFBV01		Unknown	yes	yes	16268546	yes										Anthraquinones	Polyketide	BGC0001377	
+niddamycin	Streptomyces caelestis	LGCN01		Unknown	yes	no		yes										macrolide	Polyketide	BGC0000113	
+natamycin	Streptomyces chattanoogensis	LGKG01		Unknown	yes	yes	13521908		yes									polyene macrolide	Polyketide	BGC0000108	
+simocyclinone D8	Streptomyces antibioticus	LGUX01		Unknown	yes	yes	19273673	yes										angucycline	Polyketide	BGC0000270	
+concanamycin A	Streptomyces neyagawaensis	LIQW01		Unknown	yes	no						yes	yes					macrolactam	Polyketide	BGC0000040	
+pyrrolomycin A, pyrrolomycin B, pyrrolomycin C, pyrrolomycin D	Streptomyces vitaminophilus	LLZU01		Unknown	yes	yes	7309630	yes	yes									Chlorinated Nitro Pyrrole	Polyketide	BGC0000130	
+X-14547	Streptomyces antibioticus	LMWQ01		Unknown	yes	yes	374324	yes	yes									ionophore	Polyketide	BGC0000079	
+telomycin	Streptomyces canus	LMWU01		Unknown	yes	yes		yes											NRP	BGC0001406	
+hedamycin	Streptomyces griseoruber	LMWW01		Unknown	yes	yes	5985297						yes					Anthraquinones	Polyketide	BGC0000233	
+resistomycin, resistoflavine	Streptomyces resistomycificus	LMWZ01		Complete	yes	yes	16580188	yes					yes					quinone	Type II polyketide	BGC0000264	
+salinomycin	Streptomyces albus	LMZE01		Unknown	yes	no	4452657	yes	yes									polyether	Polyketide	BGC0000143	
+foxicins A-D	Streptomyces diastatochromogenes	MCGQ01		Unknown	yes	yes		yes											"NRP
+Polyketide"	BGC0001598	siderophore
+neomycin	Streptomyces fradiae	MIFZ01		Unknown	yes	yes	17782716	yes										Aminoglycosides	Saccharide	BGC0000711	
+neomycin	Streptomyces fradiae ATCC 10745 = DSM 40063	MIFZ01		Unknown	yes	yes	17782716	yes										Aminoglycosides	Saccharide	BGC0000709	
+physostigmine	Streptomyces griseofuscus	MTKC01		Complete	no	no												Carboxylic Acids	Alkaloid	BGC0000820	cholinesterase inhibitor
+hitachimycin	Streptomyces scabrisporus	MWQN01		Unknown	yes	yes	7275806, 6833150	yes	yes				yes					Polyene macrolactam 		BGC0001194	
+avermectin	Streptomyces avermitilis	NC_003155.5		Unknown	no	no	464561			yes								macrocyclic lactone	Polyketide	BGC0000025	
+oligomycin	Streptomyces avermitilis	NC_003155.5		Unknown	yes	no	24543225		yes									macrocyclic lactone	Polyketide	BGC0000117	
+carotenoid	Streptomyces avermitilis	NC_003155.5		Unknown	no	no													Terpene	BGC0000633	
+melanin	Streptomyces avermitilis	NC_003155.5		Unknown	no	yes												melanins	Other	BGC0000908	
+melanin	Streptomyces avermitilis	NC_003155.5		Unknown	no	no												melanins	Other	BGC0000909	
+alkylresorcinol	Streptomyces griseus subsp. griseus NBRC 13350	NC_010572.1		Unknown	no	no													Polyketide	BGC0000282	
+A-500359 A, A-500359 B	Streptomyces griseus	NC_010572.1		Unknown	yes	yes	12760681	yes											NRP	BGC0000949	
+fredericamycin A	Streptomyces griseus	NC_010572.1		Complete	yes	yes	7319903						yes						Type II polyketide	BGC0000224	
+grisemycin	Streptomyces griseus subsp. griseus NBRC 13350	NC_010572.1		Complete	no	yes												angucyclinone	Linaridin	BGC0000583	
+meridamycin	Streptomyces violaceusniger	NC_015957.1		Unknown	no	no												macrolide	"NRP
+Polyketide"	BGC0001012	neuroprotectant
+thienamycin	Streptomyces cattleya	NC_017586.1		Complete	yes	yes	761989	yes										beta-lactam	Non-NRP beta-lactam	BGC0000847	
+desosamine	Streptomyces venezuelae	NC_018750.1		Complete	no	no	659329											macrolide	Hybridtailoring saccharide	BGC0000898	moiety of antibiotics
+collinomycin	Streptomyces collinus	NC_021985.1		Unknown	yes	yes		yes										angucycline	Polyketide	BGC0000266	
+kasugamycin	Streptomyces kasugaensis	NDXL01		Unknown	yes	no			yes				yes					Aminoglycosides	Saccharide	BGC0000707	
+spectinomycin	Streptomyces netropsis	OKRJ01		Unknown	yes	yes	14287971	yes										Aminoglycosides	Saccharide	BGC0000716	
+spectinabilin, orinocin, SNF4435C, SNF4435D	Streptomyces orinoci	PHNC01		Complete	yes	no	17763486,31992748					yes							Modular type I polyketide	BGC0000110	
+cinnamycin	Streptomyces cinnamoneus	PKFQ01		Complete	yes	yes	24542148,2272918	yes										lantibiotic	Lanthipeptide	BGC0000503	
+bagremycin A, bagremycin B	Streptomyces sp. WK-5344	QTSY01		Unknown	yes	yes		yes	yes				yes					Aminobenzoates	Other	BGC0000889	
+curamycin	Streptomyces cyaneus	RQJW01		Unknown	yes	no		yes										Oligosaccharides	Polyketide	BGC0000215	
+siomycin A	Streptomyces sioyaensis	SDIF01		Unknown	yes	yes	4934927	yes										thiopeptide	Thiopeptide	BGC0000611	immunosuppressant
+siomycin	Streptomyces sioyaensis	SDIF01		Unknown	yes	yes	4934927	yes										Thiopeptides	Terpene	BGC0000655	
+WS9326	Streptomyces calvus	VCNP01		Unknown	no	yes													NRP	BGC0001297	
+4-Z-annimycin	Streptomyces calvus	VCNP01		Unknown	no	yes													Polyketide	BGC0001298	
+nucleocidin	Streptomyces calvus	VCNP01		Unknown	yes	yes	13425454							yes				Nucleosides	Other	BGC0001387	
+carbapenem MM4550	Streptomyces argenteolus	VIWQ01		Unknown	yes	yes		yes										beta-lactam	Non-NRP beta-lactam	BGC0000842	
+cinerubin B	Streptomyces sp. SPB074		ABJG02	Complete	yes	yes							yes						Type II polyketide	BGC0000212	
+auroramycin	Streptomyces filamentosus		ABYB01	Unknown	yes	yes	31181115	yes	yes										Polyketide	BGC0001522	
+stenothricin	Streptomyces filamentosus NRRL 15998		ABYB01	Complete	yes	yes	4215397	yes											Cyclic depsipeptide	BGC0000431	
+SRO15-2212	Streptomyces filamentosus NRRL 15998		ABYB01	Complete	no	yes													Lanthipeptide	BGC0000553	
+SRO15-3108	Streptomyces filamentosus NRRL 15998		ABYB01	Complete	no	yes													Lanthipeptide	BGC0000554	
+SRO15-2005	Streptomyces filamentosus NRRL 15998		ABYB01	Complete	no	yes													Lassopeptide	BGC0000578	
+arylomycin	Streptomyces filamentosus NRRL 11379		ABYX02	Complete	yes	yes	12195962	yes										Peptides	Lipopeptide	BGC0000306	
+amychelin	Streptomyces sp. AA4		ACEV01	Unknown	no	yes												Oligopeptides	NRP	BGC0000300	siderophore
+9-methylstreptimidone	Streptomyces himastatinicus ATCC 53653		ACEX01	Complete	yes 	yes	https:www.publish.csiro.auCHCH9760673		yes										Modular type I polyketide	BGC0000171	
+informatipeptin	Streptomyces viridochromogenes DSM 40736		ACEZ01	Complete	no	yes													Lanthipeptide	BGC0000518	
+SWA-2138	Streptomyces sp. e14		ACUR01	Complete	no	no													Proteusin	BGC0000597	
+holomycin	Streptomyces clavuligerus ATCC 27064		ADWJ01	Unknown	yes	yes	PMC90323	yes				yes						Lactams	NRP	BGC0000373	
+(-)-δ-cadinene	Streptomyces clavuligerus ATCC 27064		ADWJ01	Unknown	no	no												Sesquiterpenes	Terpene	BGC0000674	
+(+)-T-muurolol	Streptomyces clavuligerus ATCC 27064		ADWJ01	Unknown	yes	no	18206367		yes									Sesquiterpenes	Terpene	BGC0000675	
+staurosporine	Streptomyces clavuligerus ATCC 27064		ADWJ01	Unknown	yes	no	3457562		yes				yes					Indole Alkaloids	Alkaloid	BGC0000826	
+cephamycin C	Streptomyces clavuligerus ATCC 27064		ADWJ01	Complete	yes	yes	4790591	yes										beta lactam	Beta-lactam	BGC0000319	
+alanylclavam, 2-hydroxymethylclavam, 2-formyloxymethylclavam, clavam-2-carboxylate, clavulanic acid	Streptomyces clavuligerus ATCC 27064		ADWJ01	Complete	yes	no	879738	yes										beta-lactam	Non-NRP beta-lactam	BGC0000841	
+alanylclavam, 2-hydroxymethylclavam, 2-formyloxymethylclavam, clavam-2-carboxylate	Streptomyces clavuligerus ATCC 27064		ADWJ01	Complete	yes	yes	879738	yes										beta-lactam	Non-NRP beta-lactam	BGC0000843	
+clavulanic acid	Streptomyces clavuligerus ATCC 27064		ADWJ01	Complete	yes	yes	879738	yes										beta-lactam	Non-NRP beta-lactam	BGC0000845	
+thaxtomin A	Streptomyces turgidiscabies Car8		AEJB01	Unknown	yes	no									yes			diketopiperazine	NRP	BGC0000444	phytotoxins
+phenalinolactone A	Streptomyces sp. Tu6071		AFHJ01	Complete	yes	no	21179045	yes										terpenoglycoside	"Terpene
+Hybridtailoring saccharide"	BGC0000654	
+kiamycin	Streptomyces sp. W007		AGSW01	Unknown	yes	yes							yes					angucyclinone	Polyketide	BGC0000235	
+γ-butyrolactone	Streptomyces acidiscabies		AHBF01	Unknown	no	no													Other	BGC0000850	autoregulator
+acarviostatin I03, acarviostatin II03, acarviostatin III03, acarviostatin IV03	Streptomyces coelicoflavus ZG0656		AHGS01	Unknown	no	yes												aminooligosaccharide	Saccharide	BGC0000804	alpha-amylase inhibitor
+violapyrone B	Streptomyces somaliensis		AJJM01	Unknown	yes	no						yes						Polyketide	Polyketide	BGC0001905	
+aurantimycin A	Streptomyces aurantiacus JA 4570		AOPZ01	Unknown	yes	yes	7706121	yes										Peptides ionophore	"NRP
+Polyketide"	BGC0001519	
+citrulassin B	Streptomyces aurantiacus JA 4570		AOPZ01	Unknown	no	yes												lasso peptides	RiPP	BGC0001549	
+setomimycin	Streptomyces aurantiacus JA 4570		AOPZ01	Unknown	yes	yes													Polyketide	BGC0002000	
+cyclothiazomycin b1	Streptomyces mobaraensis NBRC 13819 = DSM 40847		AORZ01	Unknown	yes	no			yes									macrocyclic thiopeptide	Thiopeptide	BGC0001145	
+ketomemicin B3, ketomemicin B4	Streptomyces mobaraensis NBRC 13819 = DSM 40847		AORZ01	Unknown	no	no												psuedotripeptides	Other	BGC0001633	
+thiostrepton	Streptomyces laurentii		AP017424.1	Unknown	yes	no		yes										thiopeptide	Thiopeptide	BGC0000614	
+lankacidin C	Streptomyces rochei		AP018517.1	Unknown	yes	yes	1148,4792112	yes					yes				yes	macrolide	"NRP
+Polyketide"	BGC0001100	
+lobophorin A	Streptomyces sp. FXJ7.023		APIV01	Unknown	yes	yes	21897400	yes										Macrolides spirotetronate	Polyketide	BGC0001183	antiinflammatory
+microtermolide A	Streptomyces sp. MspMP-M5		AREE01	Unknown	yes	no							yes					Peptides	"NRP
+Polyketide"	BGC0001332	
+cosmomycin C	Streptomyces sp. CNT302		ARIM01	Unknown	yes	yes							yes					Anthracycline	Polyketide	BGC0001558	
+salinamide A	Streptomyces sp. CNB091		ARJI01	Unknown	yes	no	24843001	yes										depsipeptide	NRP	BGC0001766	
+bottromycin A2	Streptomyces bottropensis		ARTP01	Complete	yes	yes	19115340	yes											Bottromycin	BGC0000468	
+levorin A3, C06690, FR-008-III, candicidin A, UNII-AP5PEF5W7U	Streptomyces sp. FR-008		AWXN01	Unknown	yes	yes	18559273		yes									macrolide	Polyketide	BGC0000061	
+butyrolactol A	Streptomyces sp. NBRC 110030		BBOK01	Unknown	yes	no	1429230		yes									lactone polyketide	Polyketide	BGC0001537	
+akaeolide	Streptomyces sp. NBRC 109706		BBOM01	Unknown	yes	yes		yes					yes					Macrolides	Polyketide	BGC0001199	
+lorneic acid A	Streptomyces sp. NBRC 109706		BBOM01	Unknown	no	yes												Benzene Derivatives	Polyketide	BGC0001200	
+purincyclamide	Streptomyces chrestomyceticus		BHZC01	Unknown	no	no													Other	BGC0001986	
+malonomycin	Streptomyces rimosus subsp. paromomycinus		BHZD01	Unknown	yes	yes	https:www.nature.comarticless41929-018-0178-2												"NRP
+Polyketide"	BGC0001942	
+spore pigment	Streptomyces collinus		BJHY01	Unknown	no	no													Polyketide	BGC0000272	
+tubercidin	Streptomyces tubercidicus		BLIR01	Unknown	yes	yes	13513512						yes						Other	BGC0001937	
+pristinol	Streptomyces pristinaespiralis ATCC 25486		CM000950.1	Unknown	no	no												Terpene	Terpene	BGC0001746	
+livipeptin	Streptomyces lividans 1326		CM001889.1	Unknown	no	no													NRP	BGC0001168	
+telomestatin	Streptomyces anulatus		CM003601.1	Unknown	no	no												RiPP	RiPP	BGC0001797	
+raimonol	Streptomyces anulatus		CM003601.1	Unknown	no	no												labdane-type bicyclic diterpene	Terpene	BGC0001911	
+nystatin	Streptomyces albulus		CP007574.1	Unknown	yes	no	13056635, 12987085		yes										Polyketide	BGC0001709	
+siamycin	Streptomyces nodosus		CP009313.1	Unknown	yes	yes	7797448					yes						RiPP	RiPP	BGC0001779	
+hydroxystreptomycin	Streptomyces glaucescens		CP009438.1	Unknown	yes	yes	14897819	yes											Saccharide	BGC0000690	
+citrulassin E	Streptomyces glaucescens		CP009438.1	Unknown	no	yes												lasso peptides	RiPP	BGC0001551	
+candicidin	Streptomyces sp. FR-008		CP009802.1	Unknown	yes	yes	14388629		yes									polyene	Polyketide	BGC0000034	
+fluostatins M-Q	Streptomyces albus		CP010519.1	Unknown		yes												Angucyclinones	Polyketide	BGC0001596	
+dechlorocuracomycin	Streptomyces noursei ATCC 11455		CP011533.1	Unknown	no	yes												Peptides	NRP	BGC0001569	
+nystatin A1	Streptomyces noursei ATCC 11455		CP011533.1	Complete	yes	yes			yes									Polyene	"Modular type I polyketide
+Hybridtailoring saccharide"	BGC0000115	
+netropsin	Streptomyces ambofaciens ATCC 23877		CP012382.1	Unknown	yes	yes	13064157					yes						oligopeptides	NRP	BGC0000327	
+spiramycin	Streptomyces ambofaciens ATCC 23877		CP012382.1	Unknown	yes	yes												Macrolid	Polyketide	BGC0002033	
+lidamycin	Streptomyces globisporus C-1027		CP013740.1	Unknown	yes	yes							yes					Aminoglycosides	"NRP
+Polyketide"	BGC0001397	
+lincomycin	Streptomyces lincolnensis		CP016438.1	Unknown	yes	yes	14274890	yes										Glycosides-Lincosamides	Other	BGC0000907	
+cysteoamide	Streptomyces lincolnensis		CP016438.1	Unknown	no	yes													NRP	BGC0001567	
+olimycin A, olimycin B	Streptomyces olivaceus		CP016795.1	Unknown	no	yes												naphthoquinone macrolides	Polyketide	BGC0001719	
+cyclothiazomycin	Streptomyces hygroscopicus		CP018627.1	Complete	yes	yes	2071486		yes									thiopeptide	Thiopeptide	BGC0000603	inhibitory activity against human plasma renin
+pactamides	Streptomyces pactum		CP019724.1	Unknown	no	no												NRP, Polyketide	"NRP
+Polyketide"	BGC0001726	
+totopotensamide A, totopotensamide B	Streptomyces pactum		CP019724.1	Unknown	no	yes												NRP, polyketide	"NRP
+Polyketide"	BGC0001807	
+7-deoxypactamycin	Streptomyces pactum		CP019724.1	Complete	nose	no	3759660						yes	yes					"Iterative type I polyketide
+Hybridtailoring saccharide"	BGC0000119	
+natamycin	Streptomyces gilvosporeus		CP020569.1	Unknown	no	yes													Polyketide	BGC0001690	
+heronamide A, heronamide B, heronamide C, heronamide D, heronamide E, heronamide F	Streptomyces sp. SCSIO 03032		CP021121.1	Unknown	yes	yes	27171897		yes									Lactams, Macrocyclic	"NRP
+Polyketide"	BGC0001349	membrane-binding
+xiamycin A	Streptomyces sp. SCSIO 02999		CP021121.1	Complete	yes	no	20880706					yes	yes					Terpenes	Terpene	BGC0000666	
+acyldepsipeptide 1	Streptomyces hawaiiensis		CP021978.1	Unknown	yes	no	30958008	yes	yes										NRP	BGC0001967	
+formicamycins A-M	Streptomyces formicae KY5		CP022685.1	Unknown	yes	yes		yes											Polyketide	BGC0001590	
+oxytetracycline	Streptomyces rimosus		CP023688.1	Unknown	yes	no		yes										Tetracyclines	Polyketide	BGC0000254	
+streptovaricin	Streptomyces spectabilis		CP023690.1	Unknown	yes	no	13411413	yes										Polyketide	Polyketide	BGC0001785	
+thioplatensimycin, thioplatencin	Streptomyces platensis		CP023691.1	Unknown	no	no												terpene	Terpene	BGC0001898	
+asukamycin	Streptomyces nodosus subsp. asukaensis		CP023747.1	Complete	yes	yes	993129	yes										Polyenes	Type II polyketide	BGC0000187	
+lavendiol	Streptomyces lavendulae		CP024985.1	Unknown	no	no													Polyketide	BGC0001649	
+bagremycin A, bagremycin B, bagremycin C, bagremycin E, bagremycin F, bagremycin G, ferroverdin A, ferroverdin B, ferroverdin C	Streptomyces lunaelactis		CP026304.1	Unknown	yes	yes													Other	BGC0002029	
+huanglongmycin A, huanglongmycin B, huanglongmycin C	Streptomyces sp. CB09001		CP026730.1	Unknown	yes	yes	https:mibig.secondarymetabolites.orgquery	yes					yes					polyketide	Polyketide	BGC0001895	
+ilamycins	Streptomyces atratus		CP027306.1	Unknown	yes	yes		yes											Polyketide	BGC0001620	
+rufomycin	Streptomyces atratus		CP027306.1	Unknown	yes	yes	30990022	yes										NRP, Polyketide	"NRP
+Polyketide"	BGC0001763	
+thiazostatin, watasemycin A, watasemycin B, 2-hydroxyphenylthiazoline enantiopyochelin, isopyochelin	Streptomyces venezuelae ATCC 10712		CP029197.1	Unknown	yes	yes	12014439	yes	yes									NRP	NRP	BGC0001801	
+venemycin	Streptomyces venezuelae		CP029197.1	Unknown	no	yes												polyketide	Polyketide	BGC0001819	
+armeniaspirols	Streptomyces armeniacus		CP031320.1	Unknown	yes	yes		yes											Polyketide	BGC0001934	
+armeniaspirol A, armeniaspirol B, armeniaspirol C	Streptomyces armeniacus		CP031320.1	Unknown	yes	yes													Polyketide	BGC0002022	
+meoabyssomicin, abyssomicin	Streptomyces koyangensis		CP031742.1	Unknown	no	no													Polyketide	BGC0001694	
+streptoseomycin	Streptomyces seoulensis		CP032229.1	Unknown	yes	yes		yes										Polyketide	Polyketide	BGC0001784	
+streptoseomycin	Streptomyces seoulensis		CP032229.1	Unknown	yes	yes		yes											Polyketide	BGC0001939	
+chromomycin A3	Streptomyces griseus subsp. griseus		CP032543.1	Complete	yes	yes	15112992						yes					Chromomycins	"Type II polyketide
+Oligosaccharide"	BGC0000210	
+ficellomycin	Streptomyces ficellus		CP034279.1	Unknown	yes	yes	994319	yes	yes									Peptides	NRP	BGC0001593	
+carbazomycin B	Streptomyces luteoverticillatus		CP034587.1	Unknown	yes	no	7410212	yes	yes									carbazole	Other	BGC0001896	
+thienodolin	Streptomyces albogriseolus		CP042594.1	Unknown	no	yes												Thiophenes	Other	BGC0001374	plant growth-regulator
+polyoxin A, polyoxin H	Streptomyces cacaoi subsp. asoensis		CP049838.1	Unknown	yes	yes			yes									Nucleosides	Other	BGC0000877	
+cyclooctatin	Streptomyces melanosporofaciens		FNST01	Complete	no	no	1335449												Terpene	BGC0000677	inhibitor of lysophospholipase
+cattlecin	Streptomyces cattleya NRRL 8057 = DSM 46488		FQ859185.1	Unknown	no	no												Lasso peptides	RiPP	BGC0001539	
+ferroverdin  Bagremycin	Streptomyces lunaelactis		JABSUN01	Unknown	yes	yes	11714229	yes	yes										Other	BGC0001592	Bagremycin Antibiotics and Ferroverdin iron-chelators are synthetized by the Same Gene Cluster
+nataxazole	Streptomyces sp. Tu 6176		JFJQ01	Unknown	yes	yes	19168984						yes						Polyketide	BGC0001213	
+caboxamycin	Streptomyces sp. NTK 937		JJOB01	Unknown	yes	no	19198633	yes	yes									benzoxazole	Other	BGC0001444	
+caboxamycin	Streptomyces sp. NTK 937		JJOB01	Unknown	yes	yes	19198633	yes					yes					benzoxazole	"NRP
+Polyketide"	BGC0001538	
+cosmomycin B	Streptomyces olindensis		JJOH01	Unknown	yes	yes							yes					Anthracyclines	Polyketide	BGC0000214	
+cosmomycin D	Streptomyces olindensis		JJOH01	Unknown	yes	yes	3700244	yes					yes					anthracycline	"Saccharide
+Polyketide"	BGC0001074	
+anantin C	Streptomyces olindensis		JJOH01	Unknown	no	no												lasso peptides	RiPP	BGC0001507	
+napyradiomycin	Streptomyces sp. CNQ525		JNID01	Unknown	yes	yes	3710909	yes										Naphthoquinones	Terpene	BGC0000652	
+PreQ0 Base	Streptomyces qinglanensis		JNNY01	Unknown	yes	no							yes						Other	BGC0001217	
+phosphonoacetic Acid	Streptomyces sp. NRRL F-525		JNXE01	Unknown		yes													Other	BGC0001739	
+pyridomycin	Streptomyces pyridomyceticus		JNZN01	Unknown	yes	no		yes										Oligopeptides	"NRP
+Polyketide"	BGC0001039	
+citrulassin D	Streptomyces katrae		JNZY01	Unknown	no	yes												lasso peptides	RiPP	BGC0001550	
+anantin B1, anantin B2	Streptomyces sp. NRRL S-146		JOAW01	Unknown	no	no												lasso peptides	RiPP	BGC0001506	antagonist atrial natriuretic factor
+lagmysin	Streptomyces sp. NRRL S-118		JOBL01	Unknown	no	yes												lasso peptides	RiPP	BGC0001645	
+tyrobetaine	Streptomyces sp. NRRL WC-3703		JOCH01	Unknown	no	yes	29510029											NRP	NRP	BGC0001813	
+achromosin	Streptomyces achromogenes subsp. achromogenes		JODT01	Unknown	yes	no		yes										Peptides	RiPP	BGC0001493	
+radamycin, globimycin	Streptomyces globisporus subsp. globisporus		JODW01	Unknown	yes	no	12061547											cyclic peptide	RiPP	BGC0001753	
+3,7-dihydroxytropolone	Streptomyces cyaneofuscatus		JOEM01	Unknown	yes	no	3417559						yes						Other	BGC0001935	
+keywimysin	Streptomyces sp. NRRL F-5702		JOHD01	Unknown	no	yes												lasso peptides	RiPP	BGC0001634	
+JBIR-126 tambromycin 	Streptomyces sp. NRRL F-4474		JOIB01	Unknown	yes	yes							yes					Peptides	NRP	BGC0001368	
+surugamide A, surugamide D	Streptomyces albidoflavus		JOII01	Unknown	yes	yes	28590725		yes									NRP	NRP	BGC0001792	
+detoxin S1	Streptomyces sp. NRRL S-325		JOIW01	Unknown	no	no												NRP, Polyketide	"NRP
+Polyketide"	BGC0001840	
+gilvusmycin	Streptomyces sp. NRRL B-1347		JOJM01	Unknown	yes	yes	10348041						yes						Other	BGC0001607	
+detoxin N2, detoxin N3	Streptomyces sp. NRRL B-1347		JOJM01	Unknown	no	no												NRP, Polyketide	"NRP
+Polyketide"	BGC0001878	
+atratumycin	Streptomyces atratus		JQJU01	Unknown	yes	yes	31569487	yes											NRP	BGC0001975	
+pimaricin	Streptomyces natalensis		JRKI01	Unknown	yes	yes	13521908		yes									polyene macrolide	Polyketide	BGC0000125	
+legonaridin	Streptomyces sp. CT34		JSFP01	Unknown	no	yes												linaridins	RiPP	BGC0001188	
+splenocin	Streptomyces sp. CNQ431		JTCK01	Unknown	no	no													"NRP
+Polyketide"	BGC0001216	anti-inflammatory
+griseochelin	Streptomyces griseus		JYBE02	Unknown	yes	no						yes						polyketide	Polyketide	BGC0001828	
+frigocyclinone	Streptomyces griseus		JYBE02	Unknown	yes	yes	16060387											Anguciclinona	Polyketide	BGC0002028	
+FR-900098	Streptomyces rubellomurinus		JZKH01	Unknown	yes	no		yes						yes					Other	BGC0000904	
+showdomycin	Streptomyces showdoensis		LAQS01	Unknown	yes	yes	4876578, 14236202	yes					yes					nucleoside	Other	BGC0001778	
+7-prenylisatin	Streptomyces sp. MBT28		LARV01	Unknown	yes	no		yes											Other	BGC0001294	
+thioholgamide A, thioholgamide B	Streptomyces malaysiense		LBDA02	Unknown	yes	no	28981254						yes					RiPP	RiPP	BGC0001802	
+uncialamycin	Streptomyces uncialis		LFBV01	Unknown	yes	yes	16268546	yes										enedyne	Polyketide	BGC0001815	
+chaxapeptin	Streptomyces leeuwenhoekii		LFEH01	Unknown	no	no												lassopeptide	RiPP	BGC0001307	
+glycinocin A	Streptomyces viridochromogenes		LFNT01	Unknown	yes	yes		yes										amphomycin	NRP	BGC0000379	
+celesticetin	Streptomyces caelestis		LGCN01	Unknown	yes	no	4383871	yes										Glycosides Lincosamides	NRP	BGC0001225	
+oviedomycin	Streptomyces antibioticus		LGUX01	Unknown	yes	no	15368568						yes						Polyketide	BGC0001723	
+pentostatine, vidarabine	Streptomyces antibioticus		LGUX01	Unknown		yes													Other	BGC0001735	
+murayaquinone	Streptomyces griseoruber		LIQS01	Unknown	yes	yes	2925509	yes											Polyketide	BGC0001675	
+C-1027	Streptomyces sp. CB02366		LIVT01	Unknown	yes	yes	3198491	yes					yes					Enediyne	Polyketide	BGC0001584	
+guangnanmycin	Streptomyces sp. CB01883		LIWA01	Unknown	no	yes													"NRP
+Polyketide"	BGC0001611	
+isofuranonaphthoquinone	Streptomyces sp. CB01883		LIWA01	Unknown	yes	no	27731333	yes											Polyketide	BGC0001625	
+tiancimycin	Streptomyces sp. CB03234		LIYH01	Unknown	yes	yes	29396746						yes					Anthraquinone enediyne	Polyketide	BGC0001378	
+tiancimycin	Streptomyces sp. CB03234		LIYH01	Unknown	yes	yes	29396746						yes					polyketide	Polyketide	BGC0001804	
+tiancilactone	Streptomyces sp. CB03234		LIYH01	Unknown	yes	yes												tiacinelactone	Terpene	BGC0002019	
+curacomycin	Streptomyces curacoi		LMWJ01	Unknown	yes	no	https:onlinelibrary.wiley.comdoiabs10.1002ajoc.201700433	yes										Peptides desotamide	NRP	BGC0001562	
+curacozole	Streptomyces curacoi		LMWJ01	Unknown	yes	no	30795576						yes						RiPP	BGC0002013	
+curacomycin actinokineosin	Streptomyces curacoi		LMWJ01	Unknown	yes	yes												peptide	NRP	BGC0001561	bad mibig annotation genus is not streptomyces and cluster should be actinokineosin
+chaxamycin A, chaxamycin B, chaxamycin C, chaxamycin D	Streptomyces leeuwenhoekii		LN831790.1	Unknown	yes	no		yes					yes					Rifamycins	Polyketide	BGC0001287	
+qinichelins	Streptomyces sp. MBT76		LNBE01	Unknown	no	yes												NRP	NRP	BGC0001752	
+A23187	Streptomyces chartreusis NRRL 3882		LT962942.1	Unknown	yes	no	374324	yes	yes									Ionophore	Polyketide	BGC0000032	
+tunicamycin B1	Streptomyces chartreusis NRRL 3882		LT963352.1	Complete	yes	yes	22717438	yes										nucleoside	Nucleoside	BGC0000880	
+indolmycin	Streptomyces griseus subsp. griseus		LVHX01	Unknown	yes	no	15243028	yes											Other	BGC0001206	
+citrulassin A	Streptomyces albulus		LWBU01	Unknown	no	no												lasso peptides	RiPP	BGC0001548	
+deimino-antipain	Streptomyces albulus		LWBU01	Unknown	no	yes													NRP	BGC0001570	protease inhibitor
+lagunapyrone A, lagunapyrone B, lagunapyrone C	Streptomyces sp. MP131-18		LZNS01	Unknown	no	no													Polyketide	BGC0001647	
+toyocamycin	Streptomyces diastatochromogenes		MCGQ01	Unknown	yes	no	13345725		yes										Other	BGC0001808	
+aborycin	Streptomyces sp. ZS0098		MKCP01	Unknown	yes	yes	30795576	yes											RiPP	BGC0002015	
+pentalenolactone	Streptomyces avermitilis MA-4680 = NBRC 14893		NC_003155.5	Unknown	yes	yes		yes	yes				yes					Sesquiterpenes	Terpene	BGC0000678	
+avermitilol	Streptomyces avermitilis MA-4680 = NBRC 14893		NC_003155.5	Unknown	no	no													Terpene	BGC0000683	
+citrulassin F	Streptomyces avermitilis MA-4680 = NBRC 14893		NC_003155.5	Unknown	no	yes												lasso peptides	RiPP	BGC0001552	
+ethylenediaminesuccinic acid hydroxyarginine (EDHA)	Streptomyces avermitilis MA-4680 = NBRC 14893		NC_003155.5	Unknown	no	yes												aminopolycarboxylic	Other	BGC0001587	siderophore
+phthoxazolin	Streptomyces avermitilis		NC_003155.5	Unknown	yes	no	7775276								yes			NRP, Polyketide	"NRP
+Polyketide"	BGC0001740	
+coelichelin	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	no	yes												Oligopeptides	NRP	BGC0000325	siderophore
+albaflavenone	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	yes	no		yes										Sesquiterpenes	Terpene	BGC0000660	
+hopene	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	no	no												Triterpenes	Terpene	BGC0000663	
+undecylprodigiosin	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	yes	no	24562326	yes	yes				yes	yes					"NRP
+Polyketide"	BGC0001063	
+geosmin	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	no	no													Terpene	BGC0001181	odorant
+coelimycin P1	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	no	yes													Modular type I polyketide	BGC0000038	
+actinorhodin	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	yes	yes	993778	yes											Type II polyketide	BGC0000194	
+CDA1b, CDA2a, CDA2b, CDA3a, CDA3b, CDA4a, CDA4b	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	yes	yes	6668466	yes											Ca+-dependent lipopeptide	BGC0000315	
+SapB	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	no	yes													Lanthipeptide	BGC0000551	morphogenetic protein
+SCO-2138	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	no	yes													RiPP	BGC0000595	
+SCB1, SCB2, SCB3	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	no	no	12764566											gamma-butyrolactone	Butyrolactone	BGC0000849	SCB signalling
+desferrioxamin B, desferrioxamine E	Streptomyces coelicolor A3(2)		NC_003888.3	Complete	no	yes	21628895											Peptides	Other	BGC0000940	siderophore biofilm inhibitiion
+melanin	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	no	no												melanins	Other	BGC0000910	
+methylenomycin A	Streptomyces coelicolor A3(2)		NC_003888.3	Unknown	yes	yes	4604814	yes	yes										Other	BGC0000914	
+AmfS	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	yes													Lanthipeptide	BGC0000496	morphogenesis
+carotenoid	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no												Carotenoids	Terpene	BGC0000649	
+2-methylisoborneol	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no												Camphanes	Terpene	BGC0000658	volatile
+grixazone	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	yes													Terpene	BGC0000662	parasiticide
+isorenieratene	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no												Carotenoids	Terpene	BGC0000664	
+streptomycin	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	yes	yes		yes										Aminoglycosides	Saccharide	BGC0000724	
+A-factor	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no												lactones	Other	BGC0000848	
+melanin	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no												melanins	Other	BGC0000912	
+desferrioxamin B	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no													Other	BGC0000941	
+SGR PTMs	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no													"NRP
+Polyketide"	BGC0001043	
+melanin	Streptomyces griseus subsp. griseus NBRC 13350		NC_010572.1	Unknown	no	no												melanins	Other	BGC0000911	
+scabichelin	Streptomyces scabiei 87.22		NC_013929.1	Unknown	no	yes												hydroxamate	NRP	BGC0000423	siderophore
+nigericin	Streptomyces violaceusniger		NC_015957.1	Complete	yes	no	24541690,5723082	yes	yes										Modular type I polyketide	BGC0000114	
+fluorometabolite	Streptomyces cattleya		NC_016111.1	Unknown	no	yes													Other	BGC0000903	
+β-ethynylserine	Streptomyces cattleya NRRL 8057 = DSM 46488		NC_016111.1	Unknown	yes	yes	3082841												Other	BGC0001994	
+moomysin	Streptomyces cattleya NRRL 8057 = DSM 46488		NC_017586.1	Unknown	no	no												lasso peptides	RiPP	BGC0001673	
+azomycin	Streptomyces cattleya NRRL 8057 = DSM 46488		NC_017586.1	Unknown	yes	no	13152032												Other	BGC0002018	
+validamycin A	Streptomyces hygroscopicus subsp. jinggangensis		NC_017765.1	Complete	yes	no	17335096		yes										"Polyketide
+Cyclitol"	BGC0000722	
+chloramphenicol	Streptomyces venezuelae ATCC 10712		NC_018750.1	Complete	yes	yes	17737967	yes				yes						Glycols	NRP	BGC0000893	
+SAL-2242	Streptomyces albidoflavus		NC_020990.1	Complete	no	yes													Lanthipeptide	BGC0000546	
+isorenieratene	Streptomyces collinus Tu 365		NC_021985.1	Unknown	no	yes												carotene	Terpene	BGC0001227	
+bicyclomycin	Streptomyces cinnamoneus		NHZO01	Unknown	yes	yes	4567453	yes										Diketopiperazines	Other	BGC0001530	inhibitor of the bacterial transcription termination factor
+weishanmycin	Streptomyces sp. CB02120-2		NNBM01	Unknown	no	yes												NRP, Polyketide	"NRP
+Polyketide"	BGC0001823	
+limazepine C, limazepine D, limazepine E, limazepine F, limazepine A	Streptomyces sp. ICBB 8177		NSKH01	Unknown	yes	yes	24423655						yes						NRP	BGC0001652	
+daptomycin	Streptomyces filamentosus NRRL 11379		PDCL01	Unknown	yes	yes	3026240	yes										lipopeptide	NRP	BGC0000336	
+clifednamide A	Streptomyces sp. JV178		PEKU01	Unknown	yes	yes	30542952						yes					macrolactam	"NRP
+Polyketide"	BGC0001553	
+neoantimycin	Streptomyces orinoci		PHNC01	Unknown	yes	no	29693372						yes						"NRP
+Polyketide"	BGC0001919	
+lugdunomycin	Streptomyces sp. QL37		PTJS01	Unknown	no	yes													Polyketide	BGC0002016	
+pentamycin	Streptomyces sp. S816		QQVZ01	Unknown	yes	no	13525250		yes									polyene	Polyketide	BGC0002032	
+combamide	Streptomyces sp.		RXXG01	Unknown	yes	yes		yes					yes					Macrolactam	"NRP
+Polyketide"	BGC0001556	
+echinomycin	Streptomyces lasaliensis		SZNQ01	Unknown	yes	yes	6744120	yes					yes					quinoxaline	NRP	BGC0000339	
+KS-505a	Streptomyces argenteolus		VIWQ01	Unknown	yes	yes	19168977							yes				Carotenoids	Terpene	BGC0000651	anti-amnesia
