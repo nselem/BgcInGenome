@@ -17,9 +17,9 @@
 #echo  MiBiG fasta file $2
 #identificar que genoma es y obtener queries para el blast
 #echo grep -a1 $1 mibig_prot_seqs_2.0.fasta.txt | head -n3 |tail -n2 > $1\.i 
-grep -a1 $1 $2 | head -n3 |tail -n2 > $1\.i 
+grep -a1 $1 $2 | head -n3 |tail -n2 > results/$1\.i 
 #echo grep -a1 $1 mibig_prot_seqs_2.0.fasta.txt | tail -n2  >$1\.f
-grep -a1 $1 $2 | tail -n2  >$1\.f
+grep -a1 $1 $2 | tail -n2  >results/$1\.f
 
 #identificar que genoma es
 genome=$(grep $1 $3 |cut -f3-4 | sed -e 's/^[ \t]*//' )
@@ -32,9 +32,9 @@ echo BGC $1 genome $genome file $file
 
 #identificar el geni, genf y BGC
 #echo geni=blastp -db $file\.faa.db -query $1\.i -outfmt 7 -evalue 0.001 -num_threads 12 -max_target_seqs 1  
-geni=$(blastp -db GENOMES/$file\.faa.db -query $1\.i -outfmt 7 -evalue 0.001 -num_threads 12 -max_target_seqs 1  |grep fig |cut -f 2|sed -e 's/fig|//')
+geni=$(blastp -db GENOMES/$file\.faa.db -query results/$1\.i -outfmt 7 -evalue 0.001 -num_threads 12 -max_target_seqs 1  |grep fig |cut -f 2|sed -e 's/fig|//')
 #echo genf=$(blastp -db $file\.faa.db -query $1\.f -outfmt 7 -evalue 0.001 -num_threads 12 -max_target_seqs 1  |grep fig |cut -f 2| sed -e 's/fig|//')
-genf=$(blastp -db GENOMES/$file\.faa.db -query $1\.f -outfmt 7 -evalue 0.001 -num_threads 12 -max_target_seqs 1  |grep fig |cut -f 2| sed -e 's/fig|//')
+genf=$(blastp -db GENOMES/$file\.faa.db -query results/$1\.f -outfmt 7 -evalue 0.001 -num_threads 12 -max_target_seqs 1  |grep fig |cut -f 2| sed -e 's/fig|//')
 
 #echo initial gene $geni  border gene $genf
 
