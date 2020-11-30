@@ -8,4 +8,8 @@ Direct to JupyterNotebook [![Binder](https://mybinder.org/badge_logo.svg)](https
 2- Dic Work with full data set
 
 
- 
+# To use the noteboook locally
+> $ conda activate bgc 
+> (bgc)$ conda install ipykernel
+> (bgc)$ ipython kernel install --user --name=gbc-kernel
+> (bgc)$ conda deactivate 
