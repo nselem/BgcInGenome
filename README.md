@@ -9,7 +9,8 @@ Direct to JupyterNotebook [![Binder](https://mybinder.org/badge_logo.svg)](https
 
 
 # To use the noteboook locally
-> $ conda activate bgc 
-> (bgc)$ conda install ipykernel
-> (bgc)$ ipython kernel install --user --name=gbc-kernel
-> (bgc)$ conda deactivate 
+> $ conda env create -f environment.yml  
+> $ conda activate bgc   
+> (bgc)$ conda install ipykernel  
+> (bgc)$ ipython kernel install --user --name=gbc-kernel  
+> (bgc)$ conda deactivate   
